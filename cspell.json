@@ -1,0 +1,7 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "files": ["**"],
+  "ignorePaths": ["node_modules", "package.json"],
+  "dictionaries": ["en-gb"]
+}
